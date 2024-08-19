@@ -19,6 +19,7 @@ section,
 header {
     display: flex;
     align-items: center;
+    justify-content: center;
     position: fixed;
     width: 100%;
 }
@@ -26,7 +27,6 @@ header {
 .container {
     display: flex;
     align-items: center;
-    justify-centent: center;
     width: 85%;
 
 .logo {
